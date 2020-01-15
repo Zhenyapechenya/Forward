@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header {
+}
+.container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.header-top {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 110px;
+    color: #fff;
+    background-color: #000;
+}
+.header-top__logo {
+}
+.horizontal-menu {
+}
+.header-top__menu {
+}
+.telephone {
+}
